@@ -1,0 +1,12 @@
+body
+{
+	margin:0;
+	padding:0;
+	background: rgb(20, 21, 24) url('Resources/Background.jpg') no-repeat;
+	background-position: top center;
+}
+
+body div
+{
+	display:none;
+}
